@@ -8,10 +8,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'whitesmoke': '#F5F5F5',
-        'primary': '#66613d',
-        'primary-dark': '#494527',
-        'accent': '#a2a785',
+        'whitesmoke': '#F8FBFF',
+        'primary': '#0172B5',
+        'text-dark': '#070707',
+        'text-light': '#5C5C5C',
+        'accent': '#F15B24',
         'accent-dark': '#868c68',
       },
       backgroundImage: {

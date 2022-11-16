@@ -3,17 +3,17 @@
     height: 100vh;
     border: 1px solid rgba(0, 0, 0, 0.5);
   }
-  
+
   /* .example-sidenav-content {
     display: flex;
     height: 100%;
     align-items: center;
     justify-content: center;
   } */
-  
+
   .example-sidenav {
     padding: 20px;
-    width: 200px;
+    width: 250px;
     background-color: #0172B5;
   }
   .upper-page{
@@ -32,6 +32,13 @@
     padding: 4px;
     min-height: 79.3;
   }
+  .active{
+    background-color: #F15B24 !important;
+   color: #F8FBFF;
+    /* width: 300px !important; */
+    border-radius: 5px;
+    /* overflow-x: hidden; */
 
-  
-  
+  }
+
+
